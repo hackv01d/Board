@@ -1,3 +1,3 @@
-# board
+# Board
 
-[Colors board] (https://ivantomsk.github.io/board/)
+[Colourful board - pet-project](https://ivantomsk.github.io/board/)
